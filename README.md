@@ -6,8 +6,9 @@
 <a href="https://www.youtube.com/@JM_SysTechInsights">Cybersecurity Professional</a>
 </h1>
 
-Passionné par les réseaux, la virtualisation et la sécurité, je construis des **homelabs proches de la production** pour apprendre, tester et enseigner.  
-Je suis certifié **CCNA**, j’ai complété la formation **NetAcad CCNP**, je prépare **CCNP ENCOR** et **CompTIA Security+**, et j’enseigne le **CCNA 2** comme instructeur Cisco.
+I’m a network and systems engineer with a strong focus on virtualization, security, and hands-on learning.
+I design production-grade homelabs to build, break, test, and teach real-world infrastructure.
+I’m CCNA certified
 
 ---
 
