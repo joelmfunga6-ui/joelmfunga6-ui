@@ -49,7 +49,7 @@ I’m CCNA certified
 
 ---
 
-<h2>🏗️ Data Center & Advanced Networking</h2>
+<h2>🏗️ Advanced Networking</h2>
 
 - <b>Cisco ACI & Data Center Concepts (Lab)</b>  
   - Introduction to Cisco ACI, fabric, tenants, VRF, bridge domains & EPGs in a lab environment.  
