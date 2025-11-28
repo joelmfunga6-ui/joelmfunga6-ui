@@ -76,7 +76,7 @@ I’m CCNA certified
 <h2>📺 Content & Knowledge Sharing</h2>
 
 - <b>JM SysTech Insights</b> – Sharing experience on networking, systems administration, labs, CCNA/CCNP certification and cybersecurity.  
-  - 🎥 <a href="https://www.youtube.com/@JM_SysTechInsights">YouTube – JM SysTech Insights</a>  
+  - 🎥 <a href="https://www.youtube.com/@JM_SysTech_Insights">YouTube – JM SysTech Insights</a>  
   - 📘 <a href="https://www.facebook.com/">Facebook Page (JM SysTech Insights)</a>
 
 ---
