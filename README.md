@@ -98,6 +98,6 @@ I’m CCNA certified
 
 <br/>
 
-[youtube]: https://www.youtube.com/@JM_SysTechInsights  
+[youtube]: https://www.youtube.com/@JM_SysTech_Insights
 [github]: https://github.com/joelmfunga6-ui  
 [linkedin]: https://www.linkedin.com/in/jo%C3%ABl-mfunga-ekanga-0690741ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzCgsU%2BUPTu%2B0CR4pMYdM0A%3D%3D
