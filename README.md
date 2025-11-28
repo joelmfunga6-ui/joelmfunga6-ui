@@ -15,23 +15,23 @@ I’m CCNA certified
 <h2>🧠 Network, Homelab & Security Projects</h2>
 
 - <b>Enterprise Campus Lab – Multi-VLAN, Inter-VLAN Routing & Redundancy</b>  
-  - Conception d’un réseau d’entreprise avec VLAN (Users, Servers, Guests, Management), routage inter-VLAN, EtherChannel, STP et HSRP pour la haute disponibilité.  
+  - Design of an enterprise network with VLANs (Users, Servers, Guests, Management), inter-VLAN routing, EtherChannel, STP and HSRP for high availability.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/enterprise-network-lab">enterprise-network-lab</a>
 
 - <b>VMware vSphere Homelab – Virtual Infrastructure for Training</b>  
-  - Cluster vSphere avec plusieurs ESXi, vCenter, réseaux virtuels, VMs AD/DHCP/DNS pour simuler une petite DSI et entraîner les étudiants.  
+  - vSphere cluster with multiple ESXi hosts, vCenter, virtual networks, AD/DHCP/DNS VMs to simulate a small IT department and train students.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/vsphere-homelab">vsphere-homelab</a>
 
 - <b>Firewall Segmentation & Site-to-Site VPN</b>  
-  - Séparation des VLAN “Users / Servers / Admin”, politiques de sécurité, NAT, VPN site-à-site, journaux et analyse des logs.  
+  - Segmentation of the “Users / Servers / Admin” VLANs, security policies, NAT, site-to-site VPN, logging, and log analysis.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/security-lab">security-lab</a>
 
 - <b>Windows Server Core Services Lab (DHCP, DNS, WDS)</b>  
-  - Déploiement automatisé des postes via WDS, attribution IP dynamique via DHCP, résolution de noms avec DNS, scripts post-installation.  
+  - Automated workstation deployment via WDS, dynamic IP assignment via DHCP, name resolution with DNS, and post-installation scripts.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/windows-services-lab">windows-services-lab</a>
 
 - <b>Network Troubleshooting Playbook</b>  
-  - Série de scénarios de panne (boucles STP, VLAN mal configurés, routes manquantes, DHCP KO, trunks cassés) avec méthodologie de diagnostic étape par étape.  
+  - Series of outage scenarios (STP loops, misconfigured VLANs, missing routes, DHCP down, broken trunks) with step-by-step diagnostic methodology.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/network-troubleshooting-playbook">network-troubleshooting-playbook</a>
 
 ---
@@ -39,12 +39,12 @@ I’m CCNA certified
 <h2>🎓 Teaching, Labs & Students Support</h2>
 
 - <b>CCNA 2 Labs Pack (Switching, Routing, WLAN)</b>  
-  - Labs Packet Tracer & vSphere pour : VLAN, STP, EtherChannel, routage statique, DHCPv4/v6, WLAN, dépannage.  
-  - Chaque lab contient l’énoncé, la topologie, la solution et un guide de troubleshooting.  
+  - Packet Tracer & vSphere labs for: VLAN, STP, EtherChannel, static routing, DHCPv4/v6, WLAN, troubleshooting.  
+  - Each lab includes the instructions, topology, solution, and a troubleshooting guide.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/ccna-labs-pack">ccna-labs-pack</a>
 
 - <b>Guides & Presentations for Students</b>  
-  - Supports de cours sur les fondamentaux réseau, le cloud, la sécurité, et la préparation à la certification **CCNA**.  
+  - Course materials on networking fundamentals, cloud, security, and preparation for the **CCNA** certification.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/teaching-materials">teaching-materials</a>
 
 ---
@@ -52,11 +52,11 @@ I’m CCNA certified
 <h2>🏗️ Data Center & Advanced Networking</h2>
 
 - <b>Cisco ACI & Data Center Concepts (Lab)</b>  
-  - Découverte de Cisco ACI, fabric, tenants, VRF, bridge domains & EPGs dans un environnement labo.  
+  - Introduction to Cisco ACI, fabric, tenants, VRF, bridge domains & EPGs in a lab environment.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/aci-lab">aci-lab</a>
 
 - <b>Dynamic Routing Labs (OSPF, EIGRP, BGP)</b>  
-  - Topologies multi-sites avec routage dynamique, redistribution, filtrage de routes et scénarios de convergence.  
+  - Multi-site topologies with dynamic routing, redistribution, route filtering and convergence scenarios.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/dynamic-routing-labs">dynamic-routing-labs</a>
 
 ---
@@ -64,18 +64,18 @@ I’m CCNA certified
 <h2>🛡️ Cybersecurity & Firewalling</h2>
 
 - <b>Sophos XG Firewall Lab</b>  
-  - Configuration de pare-feu Sophos XG, règles de filtrage, NAT, VPN et monitoring du trafic.  
+  - Configuration of Sophos XG firewall, filtering rules, NAT, VPN and traffic monitoring.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/sophos-xg-lab">sophos-xg-lab</a>
 
 - <b>Security+ Notes & Homelab Scenarios</b>  
-  - Résumés, fiches mémo et labs pratiques pour la préparation de **CompTIA Security+ (SY0-701)**.  
+  - Summaries, cheat sheets and practical labs for **CompTIA Security+ (SY0-701)** preparation.  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/security-plus-notes">security-plus-notes</a>
 
 ---
 
 <h2>📺 Content & Knowledge Sharing</h2>
 
-- <b>JM SysTech Insights</b> – Partage d’expérience sur les réseaux, l’administration systèmes, les labs, la certification CCNA/CCNP et la cybersécurité.  
+- <b>JM SysTech Insights</b> – Sharing experience on networking, systems administration, labs, CCNA/CCNP certification and cybersecurity.  
   - 🎥 <a href="https://www.youtube.com/@JM_SysTechInsights">YouTube – JM SysTech Insights</a>  
   - 📘 <a href="https://www.facebook.com/">Facebook Page (JM SysTech Insights)</a>
 
@@ -83,10 +83,10 @@ I’m CCNA certified
 
 <h2>📜 Current Focus & Certifications</h2>
 
-- ✅ <b>CCNA (200-301)</b> – Réussi le 26 octobre 2024  
-- 🎓 <b>NetAcad CCNP</b> – Parcours complété  
-- 📚 <b>En cours :</b> CCNP ENCOR (350-401), CompTIA Security+, PCNSA  
-- 🎯 Objectif : se spécialiser en **réseaux, data center & firewalling**, avec une forte dimension **sécurité**.
+- ✅ <b>CCNA (200-301)</b> – Passed on October 26, 2024  
+- 🎓 <b>NetAcad CCNP</b> – Path completed  
+- 📚 <b>In progress:</b> CCNP ENCOR (350-401), CompTIA Security+, PCNSA  
+- 🎯 Goal: specialize in **networking, data center & firewalling**, with a strong **security** focus.
 
 ---
 
@@ -98,6 +98,6 @@ I’m CCNA certified
 
 <br/>
 
-[youtube]: https://www.youtube.com/@JM_SysTechInsights
-[github]: https://github.com/joelmfunga6-ui
+[youtube]: https://www.youtube.com/@JM_SysTechInsights  
+[github]: https://github.com/joelmfunga6-ui  
 [linkedin]: https://www.linkedin.com/in/jo%C3%ABl-mfunga-ekanga-0690741ba/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzCgsU%2BUPTu%2B0CR4pMYdM0A%3D%3D
