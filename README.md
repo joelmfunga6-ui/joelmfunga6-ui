@@ -1,24 +1,28 @@
 <img align="left" alt="Joel Mfunga" width="120px" src="https://github.com/joelmfunga6-ui.png" />
 
 <h1>Hi, I'm Joel! <br/>
-<a href="https://github.com/joelmfunga6-ui">Network & Security Engineer | Cisco Instructor | CCNA Certified | VMware vSphere | SD-WAN </a>,
-<a href="https://www.netacad.com/">Cisco Instructor</a>,
-<a href="https://www.youtube.com/@JM_SysTechInsights">Cybersecurity Professional</a>
+<a href="https://github.com/joelmfunga6-ui">Network & Security Engineer | Cisco Instructor | CCNA Certified | Cybersecurity Professional | </a>
+<a href="https://www.netacad.com/">Cisco Instructor | VMware vSphere | SD-WAN | AWS Solutions Architect </a>
 </h1>
 
-I’m a network and systems engineer with a strong focus on virtualization, security, and hands-on learning.
-I design production-grade homelabs to build, break, test, and teach real-world infrastructure.
-I’m CCNA certified
+I am a Network and Security Engineer with strong expertise in designing, securing, and managing modern IT infrastructures. As a certified CCNA and experienced Cisco Instructor, I specialize in teaching networking concepts and guiding students through hands-on labs and real-world configurations.
+
+My professional background includes cybersecurity, VMware vSphere virtualization, SD-WAN technologies, and cloud computing with AWS Solutions Architect skills. I am passionate about building resilient networks, strengthening security posture, and helping organizations adopt scalable and efficient IT solution
 
 ---
-<h2>🛡️ AWS Project</h2>
+<h2>🛡️ 1. AWS Project</h2>
 
 - <b>AWS Project Challenge
 Here's how I used Amazon QuickSight to visualise Netflix's catalogue trends:</b>  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/sophos-xg-lab">AWS-lab</a>
+  
+<h2>🛡️ 2. Switching Project</h2>
 
-Day #2 
-<h2>🧠 Network, Homelab & Security Projects</h2>
+- <b>Switching Challenge
+with MTS Deployment:</b>  
+  
+ 
+<h2>🧠 3. Network, Homelab & Security Projects</h2>
 
 - <b>Enterprise Campus Lab – Multi-VLAN, Inter-VLAN Routing & Redundancy</b>  
   - Design of an enterprise network with VLANs (Users, Servers, Guests, Management), inter-VLAN routing, EtherChannel, STP and HSRP for high availability.  
@@ -42,7 +46,7 @@ Day #2
 
 ---
 
-<h2>🎓 Teaching, Labs & Students Support</h2>
+<h2>🎓 4. Teaching, Labs & Students Support</h2>
 
 - <b>CCNA 2 Labs Pack (Switching, Routing, WLAN)</b>  
   - Packet Tracer & vSphere labs for: VLAN, STP, EtherChannel, static routing, DHCPv4/v6, WLAN, troubleshooting.  
@@ -55,11 +59,7 @@ Day #2
 
 ---
 
-<h2>🏗️ Advanced Networking</h2>
-
-- <b>Cisco ACI & Data Center Concepts (Lab)</b>  
-  - Introduction to Cisco ACI, fabric, tenants, VRF, bridge domains & EPGs in a lab environment.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/aci-lab">aci-lab</a>
+<h2>🏗️5.  Advanced Networking</h2>
 
 - <b>Dynamic Routing Labs (OSPF, EIGRP, BGP)</b>  
   - Multi-site topologies with dynamic routing, redistribution, route filtering and convergence scenarios.  
@@ -67,7 +67,7 @@ Day #2
 
 ---
 
-<h2>🛡️ Cybersecurity & Firewalling</h2>
+<h2>🛡️ 6. Cybersecurity & Firewalling</h2>
 
 - <b>Sophos XG Firewall Lab</b>  
   - Configuration of Sophos XG firewall, filtering rules, NAT, VPN and traffic monitoring.  
@@ -79,7 +79,7 @@ Day #2
 
 ---
 
-<h2>📺 Content & Knowledge Sharing</h2>
+<h2>📺 7. Content & Knowledge Sharing</h2>
 
 - <b>JM SysTech Insights</b> – Sharing experience on networking, systems administration, labs, CCNA/CCNP certification and cybersecurity.  
   - 🎥 <a href="https://www.youtube.com/@JM_SysTech_Insights">YouTube – JM SysTech Insights</a>  
@@ -87,7 +87,7 @@ Day #2
 
 ---
 
-<h2>📜 Current Focus & Certifications</h2>
+<h2>📜8.  Current Focus & Certifications</h2>
 
 - ✅ <b>CCNA (200-301)</b> – Passed on October 26, 2024  
 - 🎓 <b>NetAcad CCNP</b> – Path completed  
