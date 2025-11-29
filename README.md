@@ -21,9 +21,6 @@ My professional background includes cybersecurity, VMware vSphere virtualization
   - 🔗 [Host a Website on Amazon S3](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/S3%20Projects/Host%20a%20Website%20on%20Amazon%20S3.md)
   - 🔗 [Visualize data with QuickSight](https://github.com/joelmfunga6-ui/AWS-Projects/tree/main/Projet%20folder/Visualize%20data%20with%20QuickSigh)
 
-
-
-
 <h2>📺 2. Content & Knowledge Sharing</h2>
 
 - <b>JM SysTech Insights</b> – Sharing experience on networking, systems administration, labs, CCNA/CCNP certification and cybersecurity.  
