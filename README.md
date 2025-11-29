@@ -11,7 +11,13 @@ I design production-grade homelabs to build, break, test, and teach real-world i
 I’m CCNA certified
 
 ---
+<h2>🛡️ AWS Project</h2>
 
+- <b>AWS Project Challenge
+Here's how I used Amazon QuickSight to visualise Netflix's catalogue trends:</b>  
+  - 🔗 <a href="https://github.com/joelmfunga6-ui/sophos-xg-lab">AWS-lab</a>
+
+Day #2 
 <h2>🧠 Network, Homelab & Security Projects</h2>
 
 - <b>Enterprise Campus Lab – Multi-VLAN, Inter-VLAN Routing & Redundancy</b>  
@@ -58,15 +64,6 @@ I’m CCNA certified
 - <b>Dynamic Routing Labs (OSPF, EIGRP, BGP)</b>  
   - Multi-site topologies with dynamic routing, redistribution, route filtering and convergence scenarios.  
   - 🔗 <a href="https://learn.nextwork.org/nostalgic_indigo_jolly_prickly_pear/docs/aws-analytics-quicksight">AWS QuickSight-labs</a>
-
-<h2>🛡️ AWS Project</h2>
-
-- <b>AWS Project Challenge
-Here's how I used Amazon QuickSight to visualise Netflix's catalogue trends:</b>  
-
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/sophos-xg-lab">sophos-xg-lab</a>
-
-Day #2 
 
 ---
 
