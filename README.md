@@ -14,7 +14,7 @@ My professional background includes cybersecurity, VMware vSphere virtualization
 
 - <b>AWS Project Challenge
 Here's how I used Amazon QuickSight to visualise Netflix's catalogue trends:</b>  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/sophos-xg-lab">AWS-lab</a>
+  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md">AWS-lab</a>
   
 <h2>🛡️ 2. Switching Project</h2>
 
