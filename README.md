@@ -13,75 +13,24 @@ My professional background includes cybersecurity, VMware vSphere virtualization
 <h2>🛡️ 1. AWS Project</h2>
 
 - <b>AWS Project Challenge
-Cloud Security with AWS IAM :</b>  
+ :</b>  
   - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md">
   Cloud Security with AWS IAM 
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Encrypt%20Data%20with%20AWS%20KMS/Encrypt%20Data%20with%20AWS%20KMS.md">Encrypt Data with AWS KMS</a>
-  
-<h2>🛡️ 2. Switching Project</h2>
+  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Encrypt%20Data%20with%20AWS%20KMS/Encrypt%20Data%20with%20AWS%20KMS.md">
+  Encrypt Data with AWS KMS
+  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Get%20Hands%20on%20with%20Cloud%20Networking!/Get%20Hands%20on%20with%20Cloud%20Networking!.md">
+  Get Hands on with Cloud Networking!
+  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Load%20Data%20into%20DynamoDB/Load%20Data%20into%20DynamoDB.md">
+  Load Data into DynamoDB
+ - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/S3%20Projects/Host%20a%20Website%20on%20Amazon%20S3.md">
+  Host a Website on Amazon S3 
+ - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/tree/main/Projet%20folder/Visualize%20data%20with%20QuickSigh">
+  Visualize data with QuickSigh
 
-- <b>Switching Challenge
-with MTS Deployment:</b>  
-  
- 
-<h2>🧠 3. Network, Homelab & Security Projects</h2>
 
-- <b>Enterprise Campus Lab – Multi-VLAN, Inter-VLAN Routing & Redundancy</b>  
-  - Design of an enterprise network with VLANs (Users, Servers, Guests, Management), inter-VLAN routing, EtherChannel, STP and HSRP for high availability.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/enterprise-network-lab">enterprise-network-lab</a>
 
-- <b>VMware vSphere Homelab – Virtual Infrastructure for Training</b>  
-  - vSphere cluster with multiple ESXi hosts, vCenter, virtual networks, AD/DHCP/DNS VMs to simulate a small IT department and train students.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/vsphere-homelab">vsphere-homelab</a>
 
-- <b>Firewall Segmentation & Site-to-Site VPN</b>  
-  - Segmentation of the “Users / Servers / Admin” VLANs, security policies, NAT, site-to-site VPN, logging, and log analysis.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/security-lab">security-lab</a>
-
-- <b>Windows Server Core Services Lab (DHCP, DNS, WDS)</b>  
-  - Automated workstation deployment via WDS, dynamic IP assignment via DHCP, name resolution with DNS, and post-installation scripts.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/windows-services-lab">windows-services-lab</a>
-
-- <b>Network Troubleshooting Playbook</b>  
-  - Series of outage scenarios (STP loops, misconfigured VLANs, missing routes, DHCP down, broken trunks) with step-by-step diagnostic methodology.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/network-troubleshooting-playbook">network-troubleshooting-playbook</a>
-
----
-
-<h2>🎓 4. Teaching, Labs & Students Support</h2>
-
-- <b>CCNA 2 Labs Pack (Switching, Routing, WLAN)</b>  
-  - Packet Tracer & vSphere labs for: VLAN, STP, EtherChannel, static routing, DHCPv4/v6, WLAN, troubleshooting.  
-  - Each lab includes the instructions, topology, solution, and a troubleshooting guide.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/ccna-labs-pack">ccna-labs-pack</a>
-
-- <b>Guides & Presentations for Students</b>  
-  - Course materials on networking fundamentals, cloud, security, and preparation for the **CCNA** certification.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/teaching-materials">teaching-materials</a>
-
----
-
-<h2>🏗️5.  Advanced Networking</h2>
-
-- <b>Dynamic Routing Labs (OSPF, EIGRP, BGP)</b>  
-  - Multi-site topologies with dynamic routing, redistribution, route filtering and convergence scenarios.  
-  - 🔗 <a href="https://learn.nextwork.org/nostalgic_indigo_jolly_prickly_pear/docs/aws-analytics-quicksight">AWS QuickSight-labs</a>
-
----
-
-<h2>🛡️ 6. Cybersecurity & Firewalling</h2>
-
-- <b>Sophos XG Firewall Lab</b>  
-  - Configuration of Sophos XG firewall, filtering rules, NAT, VPN and traffic monitoring.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/sophos-xg-lab">sophos-xg-lab</a>
-
-- <b>Security+ Notes & Homelab Scenarios</b>  
-  - Summaries, cheat sheets and practical labs for **CompTIA Security+ (SY0-701)** preparation.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/security-plus-notes">security-plus-notes</a>
-
----
-
-<h2>📺 7. Content & Knowledge Sharing</h2>
+<h2>📺 2. Content & Knowledge Sharing</h2>
 
 - <b>JM SysTech Insights</b> – Sharing experience on networking, systems administration, labs, CCNA/CCNP certification and cybersecurity.  
   - 🎥 <a href="https://www.youtube.com/@JM_SysTech_Insights">YouTube – JM SysTech Insights</a>  
@@ -89,7 +38,7 @@ with MTS Deployment:</b>
 
 ---
 
-<h2>📜8.  Current Focus & Certifications</h2>
+<h2>📜3.  Current Focus & Certifications</h2>
 
 - ✅ <b>CCNA (200-301)</b> – Passed on October 26, 2024  
 - 🎓 <b>NetAcad CCNP</b> – Path completed  
