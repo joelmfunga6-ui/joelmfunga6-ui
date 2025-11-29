@@ -13,8 +13,10 @@ My professional background includes cybersecurity, VMware vSphere virtualization
 <h2>🛡️ 1. AWS Project</h2>
 
 - <b>AWS Project Challenge
-Here's how I used Amazon QuickSight to visualise Netflix's catalogue trends:</b>  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md">AWS-lab</a>
+Cloud Security with AWS IAM :</b>  
+  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md">
+  Cloud Security with AWS IAM 
+  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md">Encrypt Data with AWS KMS</a>
   
 <h2>🛡️ 2. Switching Project</h2>
 
