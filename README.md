@@ -57,7 +57,16 @@ I’m CCNA certified
 
 - <b>Dynamic Routing Labs (OSPF, EIGRP, BGP)</b>  
   - Multi-site topologies with dynamic routing, redistribution, route filtering and convergence scenarios.  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/dynamic-routing-labs">dynamic-routing-labs</a>
+  - 🔗 <a href="https://learn.nextwork.org/nostalgic_indigo_jolly_prickly_pear/docs/aws-analytics-quicksight">AWS QuickSight-labs</a>
+
+<h2>🛡️ AWS Project</h2>
+
+- <b>AWS Project Challenge
+Here's how I used Amazon QuickSight to visualise Netflix's catalogue trends:</b>  
+
+  - 🔗 <a href="https://github.com/joelmfunga6-ui/sophos-xg-lab">sophos-xg-lab</a>
+
+Day #2 
 
 ---
 
