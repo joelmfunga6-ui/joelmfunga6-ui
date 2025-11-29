@@ -1,7 +1,7 @@
 <img align="left" alt="Joel Mfunga" width="120px" src="https://github.com/joelmfunga6-ui.png" />
 
 <h1>Hi, I'm Joel! <br/>
-<a href="https://github.com/joelmfunga6-ui">Network, Securty and Cloud Engineer</a>,
+<a href="https://github.com/joelmfunga6-ui">Network & Security Engineer | Cisco Instructor | CCNA Certified | VMware vSphere | SD-WAN </a>,
 <a href="https://www.netacad.com/">Cisco Instructor</a>,
 <a href="https://www.youtube.com/@JM_SysTechInsights">Cybersecurity Professional</a>
 </h1>
