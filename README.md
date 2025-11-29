@@ -1,8 +1,7 @@
 <img align="left" alt="Joel Mfunga" width="120px" src="https://github.com/joelmfunga6-ui.png" />
 
 <h1>Hi, I'm Joel! <br/>
-<a href="https://github.com/joelmfunga6-ui">Network & Security Engineer | Cisco Instructor | CCNA Certified | Cybersecurity Professional | </a>
-<a href="https://www.netacad.com/">Cisco Instructor | VMware vSphere | SD-WAN | AWS Solutions Architect </a>
+<a href="https://github.com/joelmfunga6-ui">Network & Security Engineer | AWS Solutions Architect </a>
 </h1>
 
 I am a Network and Security Engineer with strong expertise in designing, securing, and managing modern IT infrastructures. As a certified CCNA and experienced Cisco Instructor, I specialize in teaching networking concepts and guiding students through hands-on labs and real-world configurations.
