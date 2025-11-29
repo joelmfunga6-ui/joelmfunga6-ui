@@ -14,18 +14,12 @@ My professional background includes cybersecurity, VMware vSphere virtualization
 
 - <b>AWS Project Challenge
  :</b>  
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md">
-  Cloud Security with AWS IAM 
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Encrypt%20Data%20with%20AWS%20KMS/Encrypt%20Data%20with%20AWS%20KMS.md">
-  Encrypt Data with AWS KMS
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Get%20Hands%20on%20with%20Cloud%20Networking!/Get%20Hands%20on%20with%20Cloud%20Networking!.md">
-  Get Hands on with Cloud Networking!
-  - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Load%20Data%20into%20DynamoDB/Load%20Data%20into%20DynamoDB.md">
-  Load Data into DynamoDB
- - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/S3%20Projects/Host%20a%20Website%20on%20Amazon%20S3.md">
-  Host a Website on Amazon S3 
- - 🔗 <a href="https://github.com/joelmfunga6-ui/AWS-Projects/tree/main/Projet%20folder/Visualize%20data%20with%20QuickSigh">
-  Visualize data with QuickSigh
+  - 🔗 [Cloud Security with AWS IAM](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md)
+  - 🔗 [Encrypt Data with AWS KMS](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Encrypt%20Data%20with%20AWS%20KMS/Encrypt%20Data%20with%20AWS%20KMS.md)
+  - 🔗 [Get Hands on with Cloud Networking!](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Get%20Hands%20on%20with%20Cloud%20Networking!/Get%20Hands%20on%20with%20Cloud%20Networking!.md)
+  - 🔗 [Load Data into DynamoDB](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Load%20Data%20into%20DynamoDB/Load%20Data%20into%20DynamoDB.md)
+  - 🔗 [Host a Website on Amazon S3](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/S3%20Projects/Host%20a%20Website%20on%20Amazon%20S3.md)
+  - 🔗 [Visualize data with QuickSight](https://github.com/joelmfunga6-ui/AWS-Projects/tree/main/Projet%20folder/Visualize%20data%20with%20QuickSigh)
 
 
 
