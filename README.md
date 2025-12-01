@@ -32,8 +32,8 @@ My professional background includes cybersecurity, VMware vSphere virtualization
 
 - ✅ <b>CCNA (200-301)</b> – Passed on October 26, 2024  
 - 🎓 <b>NetAcad CCNP</b> – Path completed  
-- 📚 <b>In progress:</b> CCNP ENCOR (350-401), CompTIA Security+, PCNSA  
-- 🎯 Goal: specialize in **networking, data center & firewalling**, with a strong **security** focus.
+- 📚 <b>In progress:</b> CCNP ENCOR (350-401), CompTIA Security+, PCNSA, AWS Solutions Architectes Associate 
+- 🎯 Goal: specialize in **networking, cybersecurity, data center & Cloud**.
 
 ---
 
