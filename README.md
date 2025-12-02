@@ -30,7 +30,9 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 * 🔗 [Launching VPC Resources](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Launching%20VPC%20Resources/Launching%20VPC%20Resources.md)
 * 🔗 [Testing VPC Connectivity](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Testing%20VPC%20Connectivity/Testing%20VPC%20Connectivity.md)
 
----
+### **2. Lab – Deployment of the Cisco ACI Simulator on VMware Workstation & Integration of the First Nodes**
+
+* 🔗 [Cisco ACI Lab](https://github.com/joelmfunga6-ui/Cisco-ACI-Lab/blob/main/README.md)
 
 ## 📺 2. Content & Knowledge Sharing
 
