@@ -8,7 +8,7 @@
 Passionate Network & Security Engineer with strong expertise in **Cisco technologies**, **cloud computing**, **cybersecurity**, and **virtualization**.
 I design, secure, and manage modern IT infrastructures while teaching networking as a **certified Cisco Instructor (CCNA)**.
 
-I enjoy building resilient networks, strengthening security posture, and guiding students and organizations toward advanced infrastructures across **Cisco, VMware, SD-WAN, and AWS**.
+I enjoy building resilient networks, strengthening security posture, and guiding students and organizations toward advanced infrastructures across **Cisco, Arista, VMware, SD-WAN, and AWS**.
 
 ---
 
