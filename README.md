@@ -28,6 +28,7 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 * 🔗 [VPC Traffic Flow & Security](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/VPC%20Traffic%20Flow%20and%20Security/VPC%20Traffic%20Flow%20and%20Security.md)
 * 🔗 [Creating a Private Subnet](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Creating%20a%20Private%20Subnet/Creating%20a%20Private%20Subnet.md)
 * 🔗 [Launching VPC Resources](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Launching%20VPC%20Resources/Launching%20VPC%20Resources.md)
+* 🔗 [Testing VPC Connectivity](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Testing%20VPC%20Connectivity/Testing%20VPC%20Connectivity.md)
 
 ---
 
