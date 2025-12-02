@@ -22,6 +22,7 @@ My professional background includes cybersecurity, VMware vSphere virtualization
   - 🔗 [Build a Virtual Private Cloud](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Build%20a%20Virtual%20Private%20Cloud/Build%20a%20Virtual%20Private%20Cloud.md)
   - 🔗 [VPC Traffic Flow and Security](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/VPC%20Traffic%20Flow%20and%20Security/VPC%20Traffic%20Flow%20and%20Security.md)
   - 🔗 [Creating a Private Subnet](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Creating%20a%20Private%20Subnet/Creating%20a%20Private%20Subnet.md)
+  - 🔗 [Launching VPC Resources](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Launching%20VPC%20Resources/Launching%20VPC%20Resources.md)
 <h2>📺 2. Content & Knowledge Sharing</h2>
 
 - <b>JM SysTech Insights</b> – Sharing experience on networking, systems administration, labs, CCNA/CCNP certification and cybersecurity.  
