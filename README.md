@@ -30,11 +30,13 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 * 🔗 [Launching VPC Resources](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Launching%20VPC%20Resources/Launching%20VPC%20Resources.md)
 * 🔗 [Testing VPC Connectivity](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Testing%20VPC%20Connectivity/Testing%20VPC%20Connectivity.md)
 
-### **2. Lab – Deployment of the Cisco ACI Simulator on VMware Workstation & Integration of the First Nodes**
+### 2. Datacenter : Lab – Deployment of the Cisco ACI Simulator on VMware Workstation & Integration of the First Nodes
 
 * 🔗 [Cisco ACI Lab](https://github.com/joelmfunga6-ui/Cisco-ACI-Lab/blob/main/README.md)
+* 🔗 [Cisco ACI Lab screenshoots]( https://github.com/joelmfunga6-ui/Cisco-ACI-Lab/blob/main/ACI.pdf)
 
-## 📺 2. Content & Knowledge Sharing
+
+## 📺 3. Content & Knowledge Sharing
 
 ### **JM SysTech Insights**
 
@@ -45,7 +47,7 @@ I share educational content on networking, cybersecurity, system administration,
 
 ---
 
-## 📜 3. Certifications & Current Focus
+## 📜 4. Certifications & Current Focus
 
 ### 🎓 **Certifications**
 
