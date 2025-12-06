@@ -32,12 +32,16 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 * 🔗 [VPC Peering](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/VPC%20Peering/README(1).md)
 * 🔗 [VPC Monitoring with Flow Logs](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/VPC%20Monitoring%20with%20Flow%20Logs/VPC%20Monitoring%20with%20Flow%20Logs.md)
 
-
-### 2. Datacenter : Lab – Deployment of the Cisco ACI Simulator on VMware Workstation & Integration of the First Nodes
+## 2. Datacenter : Lab – Deployment of the Cisco ACI Simulator on VMware Workstation & Integration of the First Nodes
 
 * 🔗 [Cisco ACI Lab](https://github.com/joelmfunga6-ui/Cisco-ACI-Lab/blob/main/README.md)
 * 🔗 [Cisco ACI Lab screenshoots]( https://github.com/joelmfunga6-ui/Cisco-ACI-Lab/blob/main/ACI.pdf)
 
+## 🛡️ 1. FortiGate SD-WAN Lab
+
+ADVPN, Perfomance SLA, Rules,
+
+### 🔹 *SD-WAN Project Challenge*
 
 ## 📺 3. Content & Knowledge Sharing
 
