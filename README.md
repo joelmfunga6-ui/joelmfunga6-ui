@@ -37,13 +37,47 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 * 🔗 [Cisco ACI Lab](https://github.com/joelmfunga6-ui/Cisco-ACI-Lab/blob/main/README.md)
 * 🔗 [Cisco ACI Lab screenshoots]( https://github.com/joelmfunga6-ui/Cisco-ACI-Lab/blob/main/ACI.pdf)
 
-## 🛡️ 1. FortiGate SD-WAN Lab
+## 🛡️3. FortiGate and Cisco SD-WAN  Lab
 
-ADVPN, Perfomance SLA, Rules,
+## ADVPN, Perfomance SLA, Rules,
 
 ### 🔹 *SD-WAN Project Challenge*
 * 🔗 [Fortinet SD-WAN Lab screenshoots](https://github.com/joelmfunga6-ui/Fortinet-SD-WAN-Lab/blob/main/Fortinet-SD-WAN-Lab.pdf)
-## 📺 3. Content & Knowledge Sharing
+* 🔗 [Custom Mode SD-WAN Deployment](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_fortinet-fortigate-sdwan-activity-7340092277798621185-NvLb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [Migrating WAN Links to SD-WAN](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_sdwan-fortigate-raezseau-activity-7338195114021781504-cecZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [Cisco SD-WAN Overview](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_another-setup-activity-7333517414300647425-956U?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+
+## 🛡️ 4. Cybersecurity Lab
+
+### 🔹 *Palo alto, FortiGate, Sophos, CheckPoint*
+
+### *CheckPoint Lab*
+* 🔗 [Deploying CheckPoint](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_networking-cybersecurity-gns3-activity-7322583999845949444-NKpu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [DHCP Relay Lab With Sophos](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_sophosxg-dhcprelay-activedirectory-activity-7318238051552403456-LtyS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [Sophos Firewall config](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_cybersecurity-firewalling-sophosxg-activity-7313917412138016769--vNo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [Sophos firewall deployment](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_comptia-cybersaezcuritaez-firewalling-activity-7311754764306804737-0R4e?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [Pfsense Lab](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_cybersecurity-comptia-securityplus-activity-7311020900450013185-_5xI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+
+## 🛡️5. Monitoring Tools Lab
+
+### 🔹 *Nagios, Zabbix, OpManager*
+
+### *Nagios*
+* 🔗 [Nagions Setup](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_nagiosxi-monitoring-infrastructureit-activity-7315414746973855746-jElc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [OpManager Setup](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_cher-r%C3%A9seau-opmanager-surveille-les-p%C3%A9riph%C3%A9riques-activity-7239959617554808833-n6jw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+
+## 🛡️6. Differents Labs
+
+### 🔹 *All Kind of Labs*
+
+### *Virtual-links*
+* 🔗 [OSPFv2 Multi-zone with Virtual-links](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_ccnp-encor-networking-activity-7287807695930191872-E80j?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [Inter-VLAN Routing with Arista Switches](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_networking-intervlanrouting-vxlan-activity-7287355927077212160-aBNd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [VRF Lab](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_cisco-vrflite-networking-activity-7285779132196491264-8sp2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [3 types of Inter-VLAN routing with Cisco](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_ccnp-chap1-netacad-activity-7284242586821677056-CCt6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+* 🔗 [Hands on Palo alto](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_craezation-paloalto-learning-activity-7265447317908959232-EdEp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
+  
+## 📺 7. Content & Knowledge Sharing
 
 ### **JM SysTech Insights**
 
@@ -52,9 +86,7 @@ I share educational content on networking, cybersecurity, system administration,
 * 🎥 **YouTube:** [JM SysTech Insights](https://www.youtube.com/@JM_SysTech_Insights)
 * 📘 **Facebook Page:** [JM SysTech Insights](https://www.facebook.com/profile.php?id=61568458350144)
 
----
-
-## 📜 4. Certifications & Current Focus
+## 📜 8. Certifications & Current Focus
 
 ### 🎓 **Certifications**
 
@@ -80,7 +112,6 @@ Specialize in:
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <br/>
 
 [youtube]: https://www.youtube.com/@JM_SysTech_Insights
