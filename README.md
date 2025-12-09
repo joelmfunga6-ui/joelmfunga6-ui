@@ -1,7 +1,7 @@
 
 # 🌐 Joël Mfunga Ekanga
 
-### **Network & Security Engineer | Cisco Instructor | AWS Solutions Architect (in-progress)**
+### **Network & Security Engineer | Cisco Instructor | AWS Cloud Engineer**
 
 <img align="left" alt="Joel Mfunga" width="120px" src="https://github.com/joelmfunga6-ui.png" />
 
