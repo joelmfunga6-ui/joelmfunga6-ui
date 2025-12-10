@@ -68,7 +68,7 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 
 ### 🔹 *Nagios, Zabbix, OpManager*
 
-### *Nagios*
+### 🔹 *Nagios*
 * 🔗 [Nagions Setup](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_nagiosxi-monitoring-infrastructureit-activity-7315414746973855746-jElc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
 * 🔗 [OpManager Setup](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_cher-r%C3%A9seau-opmanager-surveille-les-p%C3%A9riph%C3%A9riques-activity-7239959617554808833-n6jw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
 
