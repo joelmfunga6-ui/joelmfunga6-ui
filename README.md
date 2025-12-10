@@ -45,7 +45,7 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 
 ## 🛡️3. FortiGate and Cisco SD-WAN  Lab
 
-## ADVPN, Perfomance SLA, Rules, ECMP
+ ### 🔹*ADVPN, Perfomance SLA, Rules, ECMP*
 
 ### 🔹 *SD-WAN Project Challenge*
 * 🔗 [Fortinet SD-WAN Lab screenshoots](https://github.com/joelmfunga6-ui/Fortinet-SD-WAN-Lab/blob/main/Fortinet-SD-WAN-Lab.pdf)
