@@ -57,7 +57,7 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 
 ### 🔹 *Palo alto, FortiGate, Sophos, CheckPoint*
 
-### *CheckPoint Lab*
+### 🔹 *CheckPoint Lab*
 * 🔗 [Deploying CheckPoint](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_networking-cybersecurity-gns3-activity-7322583999845949444-NKpu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
 * 🔗 [DHCP Relay Lab With Sophos](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_sophosxg-dhcprelay-activedirectory-activity-7318238051552403456-LtyS?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
 * 🔗 [Sophos Firewall config](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_cybersecurity-firewalling-sophosxg-activity-7313917412138016769--vNo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
@@ -97,6 +97,7 @@ I share educational content on networking, cybersecurity, system administration,
 ### 🎓 **Certifications**
 
 * ✅ **CCNA (200-301)** — Passed on October 26, 2024
+* 🎓 **FortiGate Cybersecurity Associate** — Completed
 * 🎓 **NetAcad CCNP** — Completed
 
 ### 📚 **In Progress**
@@ -104,6 +105,7 @@ I share educational content on networking, cybersecurity, system administration,
 * CCNP ENCOR (350-401)
 * CompTIA Security+
 * PCNSA (Palo Alto)
+* FCP (FortiGate)
 * AWS Solutions Architect – Associate
 
 ### 🎯 **Goals**
