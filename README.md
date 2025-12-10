@@ -12,19 +12,21 @@ I enjoy building resilient networks, strengthening security posture, and guiding
 
 ---
 
-## 🛡️ 1. AWS Hands-On Projects
+## 🛡️1. AWS Hands-On Projects
 
 A collection of cloud labs demonstrating my skills in **IAM security**, **VPC design**, **networking**, **storage**, and **data workflows**.
 
-### 🔹 *AWS Project Challenge*
-
-* 🔗 [Cloud Security with AWS IAM](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md)
-* 🔗 [Load Data into DynamoDB](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Load%20Data%20into%20DynamoDB/Load%20Data%20into%20DynamoDB.md)
-* 🔗 [Host a Website on Amazon S3](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/S3%20Projects/Host%20a%20Website%20on%20Amazon%20S3.md)
+### 🔹 *Get Hands On with AWS Databases!*
+* 🔗 [Get Hands On with AWS Databases!](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Get%20Hands%20On%20with%20AWS%20Databases!/README.md)
 * 🔗 [Visualize Data with QuickSight](https://github.com/joelmfunga6-ui/AWS-Projects/tree/main/Projet%20folder/Visualize%20data%20with%20QuickSigh)
-* 🔗 [Encrypt Data with AWS KMS](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Encrypt%20Data%20with%20AWS%20KMS/Encrypt%20Data%20with%20AWS%20KMS.md)
+* 🔗 [Load Data into DynamoDB](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Load%20Data%20into%20DynamoDB/Load%20Data%20into%20DynamoDB.md)
   
-## 🛡️Building Cloud Networking Skills Through Diverse Hands-On Projects
+### 🔹 *Get Hands On with AWS Security and others!*
+* 🔗 [Cloud Security with AWS IAM](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md)
+* 🔗 [Encrypt Data with AWS KMS](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Encrypt%20Data%20with%20AWS%20KMS/Encrypt%20Data%20with%20AWS%20KMS.md)
+* 🔗 [Host a Website on Amazon S3](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/S3%20Projects/Host%20a%20Website%20on%20Amazon%20S3.md)
+  
+### 🔹*Building Cloud Networking Skills Through Diverse Hands-On Projects*
 * 🔗 [Get Hands-on with Cloud Networking](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Get%20Hands%20on%20with%20Cloud%20Networking!/Get%20Hands%20on%20with%20Cloud%20Networking!.md)
 * 🔗 [Build a Virtual Private Cloud (VPC)](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Build%20a%20Virtual%20Private%20Cloud/Build%20a%20Virtual%20Private%20Cloud.md)
 * 🔗 [VPC Traffic Flow & Security](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/VPC%20Traffic%20Flow%20and%20Security/VPC%20Traffic%20Flow%20and%20Security.md)
@@ -36,7 +38,7 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 * 🔗 [Access S3 from a VPC](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Access%20S3%20from%20a%20VPC/README.md)
 * 🔗 [VPC Endpoints](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/VPC%20Endpoints/README(1).md)
   
-## 2. Datacenter : Lab – Deployment of the Cisco ACI Simulator on VMware Workstation & Integration of the First Nodes
+## 🛡️2. Datacenter : Lab – Deployment of the Cisco ACI Simulator on VMware Workstation & Integration of the First Nodes
 
 * 🔗 [Cisco ACI Lab](https://github.com/joelmfunga6-ui/Cisco-ACI-Lab/blob/main/README.md)
 * 🔗 [Cisco ACI Lab screenshoots]( https://github.com/joelmfunga6-ui/Cisco-ACI-Lab/blob/main/ACI.pdf)
@@ -51,7 +53,7 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 * 🔗 [Migrating WAN Links to SD-WAN](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_sdwan-fortigate-raezseau-activity-7338195114021781504-cecZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
 * 🔗 [Cisco SD-WAN Overview](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_another-setup-activity-7333517414300647425-956U?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
 
-## 🛡️ 4. Cybersecurity Lab
+## 🛡️4. Cybersecurity Lab
 
 ### 🔹 *Palo alto, FortiGate, Sophos, CheckPoint*
 
@@ -81,7 +83,7 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 * 🔗 [3 types of Inter-VLAN routing with Cisco](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_ccnp-chap1-netacad-activity-7284242586821677056-CCt6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
 * 🔗 [Hands on Palo alto](https://www.linkedin.com/posts/jo%C3%ABl-mfunga-ekanga-0690741ba_craezation-paloalto-learning-activity-7265447317908959232-EdEp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADLpMlEBOeowRigWogpeg3wkldxdT0PyWJg)
   
-## 📺 7. Content & Knowledge Sharing
+## 📺7. Content & Knowledge Sharing
 
 ### **JM SysTech Insights**
 
@@ -90,7 +92,7 @@ I share educational content on networking, cybersecurity, system administration,
 * 🎥 **YouTube:** [JM SysTech Insights](https://www.youtube.com/@JM_SysTech_Insights)
 * 📘 **Facebook Page:** [JM SysTech Insights](https://www.facebook.com/profile.php?id=61568458350144)
 
-## 📜 8. Certifications & Current Focus
+## 📜8. Certifications & Current Focus
 
 ### 🎓 **Certifications**
 
