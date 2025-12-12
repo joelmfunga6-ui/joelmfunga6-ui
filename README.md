@@ -1,4 +1,4 @@
-
+ 
 # Joël Mfunga Ekanga
 
 ### **Network & Security Engineer | Cisco Instructor | AWS Cloud Engineer**
@@ -18,9 +18,10 @@ A collection of cloud labs demonstrating my skills in **IAM security**, **VPC de
 
 ### 🔹 *Get Hands On with AWS Databases!*
 * 🔗 [Get Hands On with AWS Databases!](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Get%20Hands%20On%20with%20AWS%20Databases!/README.md)
+*  🔗[Aurora Database with EC2]( https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Aurora%20Database%20with%20EC2/Aurora%20Database%20with%20EC2.md)
 * 🔗 [Visualize Data with QuickSight](https://github.com/joelmfunga6-ui/AWS-Projects/tree/main/Projet%20folder/Visualize%20data%20with%20QuickSigh)
 * 🔗 [Load Data into DynamoDB](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Load%20Data%20into%20DynamoDB/Load%20Data%20into%20DynamoDB.md)
-  
+ 
 ### 🔹 *Get Hands On with AWS Security and others!*
 * 🔗 [Cloud Security with AWS IAM](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Cloud%20Security%20with%20AWS%20IAM/Cloud%20Security%20with%20AWS%20IAM.md)
 * 🔗 [Encrypt Data with AWS KMS](https://github.com/joelmfunga6-ui/AWS-Projects/blob/main/Projet%20folder/Encrypt%20Data%20with%20AWS%20KMS/Encrypt%20Data%20with%20AWS%20KMS.md)
